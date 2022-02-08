@@ -1,7 +1,7 @@
 # Instructions
-**TODO:** Replace this line with your name and student ID.
+Tyler Reed - treed20
 
-**TODO:** Add your screen captures to a new directory called [images](images).
+Added my screen captures to a new directory called [images](images).
 
 **HINT:** Embed your screen captures as requested in the sections below. You can embed the image using the following syntax:
 
