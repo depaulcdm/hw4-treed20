@@ -13,7 +13,6 @@ The first argument is the Alt-text for the image. The second argument is the pat
 
 # Ant+Ivy [40 pts]
 - [5 pts] A screen capture showing the version of Ant that you installed and its install directory.
--- Ant Version:
 ![Ant Version #1](images/ant-version-cmd.jpg)
 ![Ant Version #2](images/ant-install-directory-cmd.jpg)
 ![Ant Version #3](images/ant-install-directory-explorer.jpg)
@@ -23,18 +22,31 @@ The first argument is the Alt-text for the image. The second argument is the pat
 ![Ant Ivy Build Script #1](images/ant-ivy-build-script.jpg)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Ant+Ivy build.
 ![Ant Ivy JAR #1](images/ant-ivy-jar-exec.jpg)
-- [10 pts] Links to the complete and correct [hello-world/build.xml](hello-world/build.xml) and [hello-world/ivy.xml](hello-world/ivy.xml) files.
-[hello-world/build.xml](hello-world/build.xml - Completed
+- [10 pts] Links to the complete and correct [hello-world/build.xml](hello-world/build.xml) and [hello-world/ivy.xml](hello-world/ivy.xml) files.<br>
+[hello-world/build.xml](hello-world/build.xml - Completed <br>
 [hello-world/ivy.xml](hello-world/ivy.xml) - Completed
 
 # Maven [30 pts]
 - [5 pts] A screen capture showing the version of Maven that you installed and its install directory.
+![Maven Version #1](images/mvn-version-cmd.jpg)
+![Maven Version #2](images/mvn-install-directory-cmd.jpg)
+![Maven Version #3](images/mvn-install-directory-explorer.jpg)
 - [10 pts] A screen capture showing a successful build using the Maven script.
+![Maven Build #1](images/mvn-clean-package-cmd.jpg)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Maven build.
+![Maven JAR #1](images/mvn-jar-exec.jpg)
 - [10 pts] Links to the complete and correct [hello-world/pom.xml](hello-world/pom.xml) file.
+<br>
+[hello-world/pom.xml](hello-world/pom.xml) - Completed
 
 # Gradle [30 pts]
 - [5 pts]A screen capture showing the version of Gradle that you installed and its install directory.
+![Gradle Version #1](images/gradle-version-cmd.jpg)
+![Gradle Version #2](images/gradle-install-directory-cmd.jpg)
+![Gradle Version #3](images/gradle-install-directory-explorer.jpg)
 - [10 pts] A screen capture showing a successful build using the Gradle script.
+![Gradle Build #1](images/gradle-jar-cmd.jpg)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Gradle build.
-- [10 pts] Links to the complete and correct [hello-world/build.gradle](hello-world/build.gradle) file.
+![Gradle JAR #1](images/gradle-jar-exec.jpg)
+- [10 pts] Links to the complete and correct [hello-world/build.gradle](hello-world/build.gradle) file.<br>
+[hello-world/build.gradle](hello-world/build.gradle) - Completed

@@ -1,7 +1,7 @@
 <project>
 	<modelVersion>4.0.0</modelVersion>
 	<!--
-	TODO: Completed Provide the project coordinates. The group ID should beginpage
+	TODO: Completed. Provide the project coordinates. The group ID should beginpage
 	'edu.depaul.cdm.se441', the artifact ID should be 'hello-world' and
 	the version should be '1.0-SNAPSHOT. The packaging for this artifact
 	should be 'jar'.
@@ -18,7 +18,7 @@
 	</properties>
 
 	<!--
-	TODO: Define the dependencies for both the compile and test
+	TODO: Completed. Define the dependencies for both the compile and test
 	scopes. We need the following dependencies:
 	
 	log4j v.1.2.17 (for everything)
