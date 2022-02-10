@@ -18,7 +18,7 @@
 	
     <target name="resolve">
 	  <!--
-	  TODO: Completed
+	  TODO: Completed.
 	  Perform an Ivy retrieve using a pathid of 'compile.classpath' and a pattern of
 	  '${ivy.lib.dir}/[conf]/[artifact].[ext]'.
 	  
@@ -39,7 +39,7 @@
 	  <mkdir dir="${classes.dir}"/>
 	  <javac srcdir="${src.dir}" destdir="${classes.dir}">
 	    <!--
-		TODO: Define the classpath to be a combination of the 'compile.classpath' fileset
+		TODO: Completed. Define the classpath to be a combination of the 'compile.classpath' fileset
 		created by the "resolve" target above and a pathelement of the 'classes.dir' property.
 		-->
 		<classpath>
